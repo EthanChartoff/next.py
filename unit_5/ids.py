@@ -38,7 +38,6 @@ def main():
         for _ in range(10):
             print(next(gen))
 
-
     if c == "it":
         for _ in range(10):
             print(next(it))
